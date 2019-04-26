@@ -1,5 +1,5 @@
 /*
- * Convert an integer between 0 and 99,999
+ * Convert an integer between 0 and 100,000
  * to its representative string in English
  * 
  */
